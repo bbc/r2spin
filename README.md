@@ -10,7 +10,7 @@ We would like to acknowledge the Department of Speech & Hearing Science at the U
 ### Audio Recordings 
 
 The .wav files for the R2SPIN are hosted at:
-#### [http://data.bbcarp.org.uk/r2spin/]() 
+#### [http://data.bbcarp.org.uk/r2spin/](http://data.bbcarp.org.uk/r2spin/) 
 
 The naming convention for these files is:
  
