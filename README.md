@@ -2,10 +2,14 @@
 
 This document details the recordings and supplementary files for the Re-recorded Revised Speech Perception in Noise Test (R2SPIN). 
 
+When using these files they should be cited as: 
+
 *L. Ward, C. Robinson, M. Paradis, K. Tucker and B. Shirley, “R2SPIN: Re-recording the Revised Speech Perception in Noise Test”, in Interspeech 2019, Graz, Austria, Sept, 2019.*
 
 Reasons for re-recording the corpus, methodology used and validation undertaken are outlined in the above paper. The remainder of this README details the files, their formats and how they may be used. 
 We would like to acknowledge the Department of Speech & Hearing Science at the University of Illinois who hold the license for the original R-SPIN recordings for their permission to re-record them. 
+
+The corpus is being made freely available for download under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/).
 
 ### Audio Recordings 
 
